@@ -1,5 +1,5 @@
 [package]
-name = "microbitv2_rust_template"
+name = "microbitv2-rust-template"
 version = "0.1.0"
 authors = ["Lagunas Luca <lagunasluca@protonmail.com>"]
 edition = "2018"

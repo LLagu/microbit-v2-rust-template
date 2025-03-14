@@ -1,8 +1,8 @@
-[default.general]
-chip = "nrf52833_xxAA" 
+[default.probe]
+protocol = "Swd"
 
-[default.reset]
-halt_afterwards = false
+[default.general]
+chip = "nrf52833_xxAA"
 
 [default.rtt]
 enabled = true

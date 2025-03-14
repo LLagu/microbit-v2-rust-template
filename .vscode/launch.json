@@ -12,7 +12,8 @@
         "chip": "nRF52833_xxAA",
         "coreConfigs": [
           {
-            "programBinary": "${workspaceFolder}/target/thumbv7em-none-eabihf/debug/i2c",
+            // Rename the program binary with a name of your choice
+            "programBinary": "${workspaceFolder}/target/thumbv7em-none-eabihf/debug/microbitv2-rust-template",
             "rttEnabled": true,
             "rttChannelFormats": [
               {
